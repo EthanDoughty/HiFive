@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "eecs388_lib.h": "c"
+    }
+}
